@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/tutorial.dir/tutorial02.cpp.o CMakeFiles/tutorial.dir/common/shader.cpp.o  -o tutorial -rdynamic /usr/local/lib/libglfw3.a -lGLEW -lGL -lrt -lm -ldl -lX11 -lpthread -lXrandr -lXinerama -lXxf86vm -lXcursor 

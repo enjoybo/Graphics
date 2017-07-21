@@ -1,0 +1,3 @@
+/home/mori/opengl/mathclass/build/CMakeFiles/edit_cache.dir
+/home/mori/opengl/mathclass/build/CMakeFiles/rebuild_cache.dir
+/home/mori/opengl/mathclass/build/CMakeFiles/mathclass.dir

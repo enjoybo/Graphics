@@ -1,0 +1,3 @@
+/home/mori/opengl/tutorial/CMakeFiles/rebuild_cache.dir
+/home/mori/opengl/tutorial/CMakeFiles/edit_cache.dir
+/home/mori/opengl/tutorial/CMakeFiles/tutorial.dir
